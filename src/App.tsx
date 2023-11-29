@@ -12,9 +12,9 @@ function App() {
 
   useEffect(() => {
     getData();
-  }, []);
+  });
 
-  return <div className="App">Bhandara Near Me</div>;
+  return <div className="App">Bhandara Near Me!!!!!</div>;
 }
 
 export default App;
