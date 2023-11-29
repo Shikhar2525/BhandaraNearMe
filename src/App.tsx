@@ -2,7 +2,7 @@ import EventService from "./services/services";
 import "./App.css";
 import { SyntheticEvent, useEffect, useState } from "react";
 import logo from "./static/images/logo.png";
-import { Alert, Button, Snackbar } from "@mui/material";
+import { Alert, Snackbar } from "@mui/material";
 import IconButton from "@mui/material/IconButton";
 import CloseIcon from "@mui/icons-material/Close";
 
